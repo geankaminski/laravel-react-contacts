@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/Contatos.css": "/css/Contatos.css",
+    "/js/views/Contatos.js": "/js/views/Contatos.js",
+    "/js/views/Dashboard.js": "/js/views/Dashboard.js",
+    "/js/views/Login.js": "/js/views/Login.js"
+}
