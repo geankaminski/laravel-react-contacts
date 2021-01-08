@@ -2,7 +2,7 @@
 
 # Sobre #
 
-Aplicação CRUD para armazenamento de contatos utilizando o framework Laravel na versão 8.0. Front-end utilizando ReactJS e Redux.
+Aplicação CRUD para armazenamento de contatos utilizando o framework Laravel na versão 8.0. Front-end utilizando ReactJS, Redux e Bootstrap.
 
 # Requisitos #
 
